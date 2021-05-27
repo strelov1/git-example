@@ -1,20 +1,20 @@
 git status
 
-git branch
-
 git checkout -b newbranch
 
-git checkout FILENAME
+git resolve confict
 
-git checkout newbranch
+git pull
 
-git branch newbranch
+git fetch
 
-git branch -D newbranch
+git merge
 
 git commit -am 'commit'
 
-git diff hash
+git rebase
 
-git log 
+test
+asdfsdf
 
+test
