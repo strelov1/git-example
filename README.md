@@ -5,7 +5,7 @@ git checkout -b newbranch
 git resolve confict
 
 git pull
-
+ddyyxx
 git fetch
 
 git merge
